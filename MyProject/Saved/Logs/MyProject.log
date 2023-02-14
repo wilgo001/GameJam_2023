@@ -988,3 +988,36 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.14-11.02.55:333][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2023.02.14-11.02.55:333][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.02.14-11.04.47:747][514]LogDerivedDataCache: C:/Users/3dil19.bruneau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.007 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.14-11.12.45:333][301]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.02.14-11.12.45:337][301]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.02.14-11.12.47:822][564]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.14-11.12.47:827][564]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.14-11.12.59:855][936]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.14-11.13.02:116][936]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.14-11.13.02:122][936]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.14-11.13.02:126][936]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.14-11.13.02:133][937]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.02.14-11.13.03:751][112]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.02.14-11.13.03:755][112]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.14-11.13.39:424][140]LogSlate: Window 'Source Control Login' being destroyed
+[2023.02.14-11.13.48:168][109]LogSavePackage: Moving output files for package: /Game/StarterContent/Blueprints/NewBlueprint
+[2023.02.14-11.13.48:168][109]LogSavePackage: Moving '../../../../../../Users/3dil19.bruneau/Documents/GameJam_2023/MyProject/Saved/NewBlueprint237C30824F33FE19A95B879387E6FA8B.tmp' to '../../../../../../Users/3dil19.bruneau/Documents/GameJam_2023/MyProject/Content/StarterContent/Blueprints/NewBlueprint.uasset'
+[2023.02.14-11.13.48:331][109]AssetCheck: New page: Asset Save: NewBlueprint
+[2023.02.14-11.13.48:331][109]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/NewBlueprint.NewBlueprint
+[2023.02.14-11.13.55:570][954]LogSavePackage: Moving output files for package: /Game/StarterContent/Blueprints/NewBlueprint
+[2023.02.14-11.13.55:570][954]LogSavePackage: Moving '../../../../../../Users/3dil19.bruneau/Documents/GameJam_2023/MyProject/Saved/NewBlueprint955028DA492650857BA9CDB391AC31BA.tmp' to '../../../../../../Users/3dil19.bruneau/Documents/GameJam_2023/MyProject/Content/StarterContent/Blueprints/NewBlueprint.uasset'
+[2023.02.14-11.14.06:861][954]LogSlate: Window 'Submit Files' being destroyed
+[2023.02.14-11.14.07:136][954]LogSourceControl: commit successful: [main 7036dd7] add blueprint
+[2023.02.14-11.14.07:180][954]SourceControl: [main 7036dd7] add blueprint
+[2023.02.14-11.14.07:180][954]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.02.14-11.14.07:180][954]SourceControl:  create mode 100644 MyProject/Content/StarterContent/Blueprints/NewBlueprint.uasset
+[2023.02.14-11.14.07:190][954]SourceControl: Commited [main 7036dd7] add blueprint.
+[2023.02.14-11.14.07:193][954]AssetCheck: New page: Asset Save: NewBlueprint
+[2023.02.14-11.14.07:193][954]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/NewBlueprint.NewBlueprint
+[2023.02.14-11.14.46:957][234]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2023.02.14-11.14.46:957][234]SourceControl: Error: MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset
+[2023.02.14-11.14.46:957][234]SourceControl: Error: MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2023.02.14-11.14.46:957][234]SourceControl: Error: MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset
+[2023.02.14-11.14.46:957][234]SourceControl: Error: hint: Use -f if you really want to add them.
+[2023.02.14-11.14.46:957][234]SourceControl: Error: hint: Turn this message off by running
+[2023.02.14-11.14.46:957][234]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
